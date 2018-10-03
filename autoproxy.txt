@@ -7,3 +7,9 @@
 @@||weibo.com
 @@||youdao.com
 @@||jianshu.com
+@@||segmentfault.com
+@@||zhihu.com
+@@||github.com
+@@||taobao.com
+@@||alipay.com
+@@||jd.com
