@@ -1,7 +1,8 @@
+@@||127.0.0.1
+@@||localhost
 @@||baidu.com
 @@||iciba.com
 @@||qq.com
 @@||csdn.net
 @@||weibo.com
-@@||127.0.0.1
-@@||localhost
+@@||youdao.com
