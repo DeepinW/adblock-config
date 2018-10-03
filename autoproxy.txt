@@ -4,6 +4,7 @@
 @@||baidu.com
 @@||iciba.com
 @@||qq.com
+@@||tencent.com
 @@||csdn.net
 @@||weibo.com
 @@||youdao.com
