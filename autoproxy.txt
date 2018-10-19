@@ -1,5 +1,1 @@
-||google.com
-||youtube.com
-||twitter.com
-||medium.com
-||youtu.be
+@@||baidu.com
