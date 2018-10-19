@@ -6,7 +6,6 @@
 @@||tencent.com
 @@||csdn.net
 @@||weibo.com
-@@||youdao.com
 @@||jianshu.com
 @@||segmentfault.com
 @@||zhihu.com
