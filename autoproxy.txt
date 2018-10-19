@@ -2,3 +2,4 @@
 ||youtube.com
 ||twitter.com
 ||medium.com
+||youtu.be
