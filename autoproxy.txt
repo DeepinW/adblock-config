@@ -1,6 +1,5 @@
 @@||127.0.0.1
 @@||localhost
-@@||cn
 @@||baidu.com
 @@||iciba.com
 @@||qq.com
