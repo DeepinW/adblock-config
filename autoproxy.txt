@@ -3,3 +3,4 @@
 ||youtube.com
 ||youtu.be
 ||twitter.com
+||reddit.com
