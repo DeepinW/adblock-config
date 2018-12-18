@@ -5,3 +5,4 @@
 ||twitter.com
 ||reddit.com
 ||medium.com
+||gist.github.com
