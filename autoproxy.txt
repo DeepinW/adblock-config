@@ -7,3 +7,4 @@
 ||medium.com
 ||gist.github.com
 ||gitter.im
+||sdkman.io
