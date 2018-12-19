@@ -8,3 +8,5 @@
 ||gist.github.com
 ||gitter.im
 ||sdkman.io
+||brighttalk.com
+||pivotal.io
