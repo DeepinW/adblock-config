@@ -11,3 +11,4 @@
 ||brighttalk.com
 ||pivotal.io
 ||geeksforgeeks.org
+||googlevideo.com
