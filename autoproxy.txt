@@ -12,3 +12,4 @@
 ||pivotal.io
 ||geeksforgeeks.org
 ||googlevideo.com
+||google.com.hk
