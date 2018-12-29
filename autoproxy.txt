@@ -13,3 +13,4 @@
 ||geeksforgeeks.org
 ||googlevideo.com
 ||google.com.hk
+||wikipedia.org
