@@ -14,3 +14,4 @@
 ||googlevideo.com
 ||google.com.hk
 ||wikipedia.org
+||quora.com
