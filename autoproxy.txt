@@ -17,4 +17,3 @@
 ||quora.com
 ||redd.it
 ||redditmedia.com
-||rediscookbook.org
