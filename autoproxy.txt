@@ -19,3 +19,4 @@
 ||redditmedia.com
 ||telegram.org
 ||gov
+||vimeo.com
