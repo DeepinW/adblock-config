@@ -21,3 +21,4 @@
 ||gov
 ||vimeo.com
 ||twimg.com
+||ytimg.com
