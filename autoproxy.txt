@@ -20,3 +20,4 @@
 ||telegram.org
 ||gov
 ||vimeo.com
+||twimg.com
