@@ -22,6 +22,7 @@
 ||ytimg.com
 ||twimg.com
 ||gmail.com
+||youdao.com
 ||imgur.com
 ||jsfiddle.net
 ||jshell.net
@@ -38,3 +39,8 @@
 ||stackoverflow.com
 ||godoc.org
 ||v2ex.com
+||nytimes.com
+||gravatar.com
+||fbcdn.net
+||elastic.co
+||redd.it
